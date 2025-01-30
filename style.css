@@ -1,0 +1,27 @@
+@font-face {
+    font-family: tilden;
+    src: url(tilden.ttf);
+}
+html, body {
+    background-color: black;
+    font-family: tilden;
+    overflow: hidden
+
+}
+h1 {
+    color: white;
+    font-weight: normal;
+}
+.splash {
+    display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+}
+.splashonsplash {
+    width: 50%;
+    height: 50%;
+}
+.splashtext {
+    font-size: 100px;
+}
