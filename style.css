@@ -1,16 +1,17 @@
 @font-face {
-    font-family: tilden;
-    src: url(tilden.ttf);
+    font-family: brat;
+    src: url(arial_narrow-webfont.woff);
 }
 html, body {
-    background-color: black;
-    font-family: tilden;
+    background-color: rgb(138, 207, 0);
+    font-family: brat;
     overflow: hidden
 
 }
 h1 {
-    color: white;
+    color: black;
     font-weight: normal;
+    filter: blur(1.5px);
 }
 .splash {
     display: flex;
