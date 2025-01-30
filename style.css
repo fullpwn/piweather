@@ -3,7 +3,7 @@
     src: url(tilden.ttf);
 }
 html, body {
-    background-color: black;
+    background-color: rgb(76, 142, 223);
     font-family: tilden;
     overflow: hidden
 
