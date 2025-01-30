@@ -5,7 +5,8 @@
 html, body {
     background-color: rgb(138, 207, 0);
     font-family: brat;
-    overflow: hidden
+    overflow: hidden;
+    cursor: none;
 
 }
 h1 {
